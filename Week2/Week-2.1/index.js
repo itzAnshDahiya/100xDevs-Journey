@@ -11,6 +11,8 @@ console.log(contents2);
 const fs = require('fs'); // Correct way
 // // If it's a local module
 
+console.log("Data");
+
 
 function print(err,data){
     console.log (data);
